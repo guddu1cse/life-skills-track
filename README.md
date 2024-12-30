@@ -23,8 +23,8 @@ REST (Representational State Transfer) is an architectural style for designing n
     
         {
             "id": 1,
-            "name": "John Doe",
-            "email": "john@example.com"
+            "name": "Guddu Kumar",
+            "email": "guddu1cse@gmail.com"
         }
   
 
