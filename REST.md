@@ -13,7 +13,7 @@ REST (Representational State Transfer) is an architectural style for designing n
   
   https://example.com/users/1
   
-  Here, `/users/1` represents the user with ID 1.
+  Here, `/users/1` represents the user with ID-1.
 
 ### 2. Representations
 - Resources are represented in formats like JSON, XML, or HTML.  
