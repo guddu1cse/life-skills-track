@@ -49,4 +49,4 @@ Pick one habit that you would like to do more of? What are the steps that you ca
 ---
 
 ### Question 9  
-Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying ?
