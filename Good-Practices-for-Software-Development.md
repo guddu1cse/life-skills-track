@@ -56,14 +56,3 @@
 * Manage your food intake—avoid eating too little or too much to maintain concentration.  
 * Exercise regularly to keep your energy levels high throughout the day.  
 
----
-
-## Review Questions  
-
-### Question 1  
-Which point(s) were new to you?  
-
----
-
-### Question 2  
-Which area do you think you need to improve on? What are your ideas to make progress in that area?  
